@@ -1,7 +1,3 @@
-# TODO:
-# Adaptar el programa al alfabeto español (que el usuario pueda escoger entre español e inglés)
-# Hacer que descifre una secuencia comparando las palabras del mensaje con las de un diccionario 
-
 message = input("Escribe un mensaje que quieras cifrar: ")
 ciphMessage = ""
 shift = 0
